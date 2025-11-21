@@ -1,5 +1,5 @@
 import pandas as pd
-import nu py as np
+import numpy as np
 
 
 
